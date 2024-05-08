@@ -1,1 +1,1 @@
-https://scienceacadem.github.io/science-academy/
+https://scienceacadem.github.io/scienceacademy/
